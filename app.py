@@ -12,7 +12,7 @@ url = 'https://cotricampo.com.br/'
 data_atual = datetime.datetime.now()
 data = data_atual.strftime("%d/%m/%Y %H:%M:%S")
 
-telefones = ["+5555999435002", "+555591994460"]
+telefones = ["+55Numeros_envio", "+55Numeros_envio"]
 
 # Faça a requisição ao site
 response = requests.get(url)
