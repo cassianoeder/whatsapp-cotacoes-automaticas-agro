@@ -19,16 +19,16 @@ Além disso, é necessário ter uma conexão com a internet para fazer as requis
 
 2. **Configuração:**
 
-- Abra o arquivo `enviar_cotacoes.py` e configure as seguintes variáveis:
+- Abra o arquivo `app.py` e configure as seguintes variáveis:
   - `url`: URL do site de onde as cotações serão obtidas.
   - `telefones`: Lista de números de telefone para os quais as mensagens serão enviadas.
 
 3. **Execução:**
 
-- Execute o script Python `enviar_cotacoes.py`:
+- Execute o script Python `app.py`:
 
   ```
-  python enviar_cotacoes.py
+  python app.py
   ```
 
 - O script irá:
